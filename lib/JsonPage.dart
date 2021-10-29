@@ -81,7 +81,6 @@ class _JsonPageState extends State<JsonPage> {
         }, future: DefaultAssetBundle.of(context).loadString("assets/mock_data.json")
         ),
       ),
-
     );
   }
 }
